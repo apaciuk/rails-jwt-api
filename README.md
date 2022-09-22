@@ -1,4 +1,4 @@
-# rails-nuxt-twitter
+# rails-jwt-api
 
 Rails 7 app devise/jwt sessions, registrations, login and auth functionailty, tweets, RSpec & Factory Bot tests
 
